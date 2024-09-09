@@ -1,4 +1,5 @@
-![GSY7DrHWsAASKuN](https://github.com/user-attachments/assets/469fbd3e-0e80-41e0-8a44-3441d2428b7b)
+
+<img align="center" src="https://i.imgur.com/2NEJheo.jpg"/>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
