@@ -2,7 +2,7 @@
 <br/>
 ![GSY7DrHWsAASKuN](https://github.com/user-attachments/assets/58e4735d-afac-4513-81c8-a9a94372bda9)
 
-src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
 <p>
   
 Hi 👋, I am **Regan** an informatic student, a student who are enthusiastic about web and mobile development
