@@ -1,8 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
 ![GSY7DrHWsAASKuN](https://github.com/user-attachments/assets/469fbd3e-0e80-41e0-8a44-3441d2428b7b)
-<br/>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
 <p>
   
 Hi 👋, I am **Regan** an informatic student, a student who are enthusiastic about web and mobile development
