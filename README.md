@@ -14,11 +14,11 @@ Hi 👋, I am **Regan** an informatic student, a student who are enthusiastic ab
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m studying at UPN Veteran Jawa Timur **5th semester**
+- 🔭 I’m studying at UPN Veteran Jawa Timur a 5th semester student
 
-- 🌱 I’m currently learning **mobile development** 🤓
+- 🌱 I’m currently learning **Andorid development** 🤓
 
-- 🤝 I’m looking for help with **mobile learning**
+- 🤝 I’m looking for help with **Jetpack Compose**
 
 </details>
   
