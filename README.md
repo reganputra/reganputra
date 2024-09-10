@@ -1,7 +1,4 @@
 
-<img align="center" width="85%" src="https://i.imgur.com/2NEJheo.jpg"/>
-<br/>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reganputra&label=Profile%20views&color=0e75b6&style=flat" alt="reganputra" /> </p>
 <p>
   
