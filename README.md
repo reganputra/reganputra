@@ -42,6 +42,7 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
   <a href="https://github.com/simple-news-app-with-react"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=reganputra&repo=simple-news-app-with-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Search-and-Random-MealDB"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=reganputra&repo=Search-and-Random-MealDB&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/AsclepiusCancer"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=reganputra&repo=AsclepiusCancer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+   <a href="https://github.com/Hanashi"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=reganputra&repo=Hanashi&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
