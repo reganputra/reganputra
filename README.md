@@ -10,11 +10,11 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m studying at UPN Veteran Jawa Timur a 5th-semester student
+- 🔭 I’m studying at UPN Veteran Jawa Timur a 6th-semester student
 
 - 🌱 I’m currently learning **Android development** 🤓
 
-- 🤝 I’m looking for help with **Android Development Learning**
+- 🤝 I’m looking for help about **Mobile Development**
 
 </details>
   
