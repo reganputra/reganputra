@@ -28,6 +28,9 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 </div>
 -->
 
+
+![download (1)](https://github.com/user-attachments/assets/14c177bd-11a5-45ef-81cb-43965742846c)
+
 ## 🔥 Github Stats
 
 
