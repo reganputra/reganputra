@@ -32,7 +32,7 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 
 
 ## 🔥 Github Stats
-![download (1)](https://github.com/user-attachments/assets/14c177bd-11a5-45ef-81cb-43965742846c) 
+<img src="https://github.com/user-attachments/assets/14c177bd-11a5-45ef-81cb-43965742846c" width="100%" alt="Github Stats">
 
   <a href="https://github.com/reganputra"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=reganputra&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/reganputra"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=reganputra&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
