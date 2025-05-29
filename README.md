@@ -14,9 +14,9 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 
 - 🔭 I’m studying at UPN Veteran Jawa Timur a 6th-semester student
 
-- 🌱 I’m currently learning **Android development** 🤓
+- 🌱 I’m currently learning **Go for backend development** 
 
-- 🤝 I’m looking for help about **Mobile Development**
+- 🤝 I’m looking for help about **Backend and microservice with Go**
 
 - Web Portofolio [https://reganputra.github.io/portofolio/](https://reganputra.github.io/portofolio/)
 
