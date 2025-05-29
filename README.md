@@ -16,6 +16,10 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 
 - 🤝 I’m looking for help about **Mobile Development**
 
+- Web Portofolio [https://reganputra.github.io/portofolio/](https://reganputra.github.io/portofolio/)
+
+- 📫 How to reach me **ramadhanregan334@gmail.com**
+
 </details>
   
 </p>
@@ -53,6 +57,7 @@ Hi 👋, I am **Regan** an informatic student, a student who is enthusiastic abo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@kaiouukenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaiouukenn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/regan-putra-ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="regan-putra-ramadhan" height="30" width="40" /></a>
 <a href="https://instagram.com/rgan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rgan34" height="30" width="40" /></a>
 </p>
   
