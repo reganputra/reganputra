@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I am Regan an informatic student, a student who is enthusiastic about web and android development</h2>
+<h2 align="left">Hi 👋, I am Regan an informatic student, a student who is enthusiastic about web, devops, and android development</h2>
 
 ###
 
