@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Advance Go and Devops**
 
-- 👨‍💻 All of my portofolio are available at [https://reganputra.github.io/portofolio/](https://reganputra.github.io/portofolio/)
+- 👨‍💻 All of my portofolio are available at [https://reganputra.github.io/portofolio/](https://regan-porto.vercel.app/)
 
 - 📫 How to reach me **ramadhanregan334@gmail.com**
 
