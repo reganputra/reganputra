@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I am Regan</h1>
+<h1 align="center">Hi 👋, I'm Regan</h1>
 <h3 align="center">a finaly year informatic student who is enthusiastic about web, devops, and android development</h3>
 
 - 🔭 I’m currently working on [E-Wallet Microsevices](https://github.com/reganputra/e-wallet-microservice.git)
