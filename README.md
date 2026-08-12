@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [E-Wallet Microsevices](https://github.com/reganputra/e-wallet-microservice.git)
 
-- 🌱 I’m currently learning **DevOps, Go, Android Development**
+- 🌱 I’m currently learning **DevOps, Go, Cloud Computing**
 
-- 🤝 I’m looking for help with **Advance Go and Devops**
+- 🤝 I’m looking for help with **Advance Go, Devops and Cloud Computing**
 
 - 👨‍💻 All of my portofolio are available at [https://reganputra.github.io/portofolio/](https://regan-porto.vercel.app/)
 
