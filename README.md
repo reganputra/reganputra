@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regan</h1>
-<h3 align="center">a finaly year informatic student who is enthusiastic about web, devops, and android development</h3>
+<h3 align="center">a finaly year informatic student who is enthusiastic about web, devops, and cloud computing</h3>
 
 - 🔭 I’m currently working on [E-Wallet Microsevices](https://github.com/reganputra/e-wallet-microservice.git)
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Advance Go, Devops and Cloud Computing**
 
-- 👨‍💻 All of my portofolio are available at [https://reganputra.github.io/portofolio/](https://regan-porto.vercel.app/)
+- 👨‍💻 All of my portofolio are available at [https://regan-porto.vercel.app/](https://regan-porto.vercel.app/)
 
 - 📫 How to reach me **ramadhanregan334@gmail.com**
 
