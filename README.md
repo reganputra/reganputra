@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regan</h1>
-<h3 align="center">a finaly year informatic student who is enthusiastic about web, devops, and cloud computing</h3>
+<h3 align="center">a fresh graduate computer science student who is enthusiastic about web, devops, and cloud computing</h3>
 
 - 🔭 I’m currently working on [E-Wallet Microsevices](https://github.com/reganputra/e-wallet-microservice.git)
 
